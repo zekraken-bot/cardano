@@ -1,7 +1,7 @@
 {
     "info": {
         "url_png_icon_64x64": "https://krakenstaking.files.wordpress.com/2021/03/64x64.png",
-        "url_png_logo": "",
+        "url_png_logo": "https://krakenstaking.files.wordpress.com/2021/03/untitled.png",
         "location": "Connecticut, USA",
         "social": {
             "twitter_handle": "KrakenStaking",
@@ -13,16 +13,16 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "KrakenStaking",
             "addr": "",
             "city": "",
-            "country": "",
+            "country": "USA",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Individually operated single pool operater.",
-            "server": "1 BP + 2 Relays",
+            "me": "Individually operated single pool operater. See Thoughtful Investing tab for more information about the pool's goals",
+            "server": "",
             "company": ""
         },
         "rss": ""
