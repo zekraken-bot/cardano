@@ -1,6 +1,6 @@
 {
 "name": "Kraken Stakepool",
-"description": "Dedicated single pool operator looking to donate a portion of profits to charity organizations which will be rotated on a monthly basis. More details at https://krakenstaking.wordpress.com",
+"description": "Dedicated single pool operator looking to donate a portion of the pool operator profits to charity organizations which will be rotated on a monthly basis. More details at https://krakenstaking.wordpress.com",
 "ticker": "KRKN",
 "homepage": "https://krakenstaking.wordpress.com",
 "extended": "https://raw.githubusercontent.com/zekraken-bot/cardano/main/extended-meta.json"
